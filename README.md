@@ -40,5 +40,5 @@ Run 1: 3
 Total runs: 1
 ```
 
-#License 
+## License 📝
 This project is licensed under the MIT License. See the LICENSE file for details.
